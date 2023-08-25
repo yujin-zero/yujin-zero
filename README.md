@@ -28,5 +28,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoujin63@gmail.com)](mailto:soyoujin63@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:poly30@naver.com)](mailto:poly30@naver.com)
-<a href="https://www.instagram.com/sou_jin.00"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sou_jin.00"/></a>
+<a href="https://www.instagram.com/sou_jin.00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFF"/></a>
+<a href="https://namecard.kakao.com/poly0530"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=FFF"/></a>
 </div>
