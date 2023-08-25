@@ -17,8 +17,16 @@
 </div>
 <br>
 <div class="boj" align="center">
-<h3>✏️ BAEKJOON ✏️</h3>
+<h3>🏅 BAEKJOON 🏅</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
 
+</div>
+<br>
+<div class="contact" align="center">
+  <h3>📞 CONTACT 📞</h3>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soyoujin63@gmail.com)](mailto:soyoujin63@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:poly30@naver.com)](mailto:poly30@naver.com)
+<a href="https://www.instagram.com/sou_jin.00"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sou_jin.00"/></a>
 </div>
