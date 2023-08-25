@@ -17,5 +17,8 @@
 </div>
 <br>
 <div class="boj" align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
+<h3>✏️ BAEKJOON ✏️</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
+
 </div>
