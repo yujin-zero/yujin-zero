@@ -9,12 +9,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
-  <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
 <br>
 <div class="boj" align="center">
