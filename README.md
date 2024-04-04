@@ -32,7 +32,7 @@
     <h3>🏅 BAEKJOON 🏅</h3>
     
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
-    <br>
+    
   </div>
   <div class="r" align="center>
     <br>
