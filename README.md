@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 </div>
 <br>
+
 <div class="boj" align="center">
 <h3>🏅 BAEKJOON 🏅</h3>
 
@@ -36,6 +37,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&theme=tokyonight&langs_count=8">
 
 </div>
+
+<div class="contest" align="contest">
+<h3>🏆 CONTEST 🏆</h3>
+<h6>"Great Invention Contest Challenge" 2019 IIBC Start-up Invention Contest 🥇</h6>
+<h6>제30회 전국ICT창의성대회 스마트앱 부문 🥈</h6>
+<br>
 <br>
 <div class="contact" align="center">
   <h3>📞 CONTACT 📞</h3>
