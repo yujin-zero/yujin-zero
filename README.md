@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
 <br>
