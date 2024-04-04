@@ -3,7 +3,7 @@
 <br>
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <div class="tech" align="center">
-  <h2 align="center">프로그래밍 언어</h2>&nbsp
+  <a align="center">프로그래밍 언어</a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
