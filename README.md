@@ -37,8 +37,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&theme=tokyonight&langs_count=8">
 
 </div>
-
-<div class="contest" align="contest">
+<br><br>
+<div class="contest" align="center">
 <h3>🏆 CONTEST 🏆</h3>
 <h6>"Great Invention Contest Challenge" 2019 IIBC Start-up Invention Contest 🥇</h6>
 <h6>제30회 전국ICT창의성대회 스마트앱 부문 🥈</h6>
