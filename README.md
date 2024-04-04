@@ -31,11 +31,11 @@
 
     <h3>🏅 BAEKJOON 🏅</h3>
     
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
-    
-    <br>
-    <h3>💻 Most Used Language 💻</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&theme=tokyonight&langs_count=8">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poly30)](https://solved.ac/poly30/)
+
+<br>
+<h3>💻 Most Used Language 💻</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&theme=tokyonight&langs_count=8">
 
 </div>
 <br><br>
