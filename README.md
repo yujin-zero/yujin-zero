@@ -2,7 +2,7 @@
 <h3 align="center">🏫 Sejong Univ Software 20 🏫</h3>
 <br>
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
-<div class="tech" align="center">
+<div class="tech">
   <b align="center">LANGUAGE</b>&nbsp&nbsp&nbsp&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
