@@ -17,11 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&show_icons=true&show_owner=true&hide_title=true&hide=&langs_count=8)
 [![yujin-zero's github stats](https://github-readme-stats.vercel.app/api?username=yujin-zero&hide=&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### 🐍 Watch the Snake Eating My Contributions
-
-![snake gif](https://github.com/yujin-zero/yujin-zero/blob/output/dist/github-contribution-grid-snake.svg)
-
----
 
