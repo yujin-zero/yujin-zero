@@ -21,7 +21,7 @@
 
 ### 🐍 Watch the Snake Eating My Contributions
 
-![snake gif](https://github.com/yujin-zero/yujin-zero/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yujin-zero/yujin-zero/blob/output/dist/github-contribution-grid-snake.svg)
 
 ---
 

@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # 하루에 한 번 자동 실행
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -17,8 +16,8 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: yujin-zero  # 여기에 본인의 GitHub 사용자명 입력
-          outputs: ./github-contribution-grid-snake.svg
+          github_user_name: yujin-zero
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push the animation to the repository
         uses: ad-m/github-push-action@v0.6.0
