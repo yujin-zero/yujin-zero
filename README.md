@@ -27,8 +27,9 @@
 
 ### 🏅 Awards
 
-- Alice AI SparkCamp 해커톤 대상 [보기](https://elice.io/ko/newsroom/ai-cloud-hackathon-winner)
-- 세종대학교 제17회 창의설계경진대회 대상 [보기](https://pr.sejong.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=2&pkid=67665)
+- 세종대학교 제17회 창의설계경진대회 대상 [기사 보기](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=7&searchField=&searchValue=&boardType=2&pkid=67665)
+- Alice AI SparkCamp 해커톤 대상 [기사 보기](https://elice.io/ko/newsroom/ai-cloud-hackathon-winner)
+
 
 ---
 
