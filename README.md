@@ -26,6 +26,16 @@
 
 ---
 
+### 🚀 Projects
+
+| Project | Description |
+|:--------|:------------|
+| [**SnapSum**](https://github.com/Elice-AI-Spark-Camp/SnapSum-Back) | **AI 숏폼 영상 제작 서비스**<br>Spring Boot와 FastAPI를 사용해 AI 요약 및 이미지 생성 기능을 구현했습니다. 백엔드 아키텍처 설계와 API 서버 개발을 주도했습니다. |
+| [**SSGcam**](https://github.com/yujin-zero/SSGcam) | **실시간 보이스피싱 탐지 앱**<br>Twilio API와 WebSocket을 연동하여 통화 중 실시간 음성 스트리밍과 탐지 기능을 구현했습니다. Node.js 기반 백엔드와 Flutter 프론트엔드를 직접 개발했습니다. |
+
+
+---
+
 ### 🏅 Awards
 
 - 세종대학교 제17회 창의설계경진대회 대상 [기사 보기](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=7&searchField=&searchValue=&boardType=2&pkid=67665)
