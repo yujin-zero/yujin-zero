@@ -2,6 +2,7 @@
 
 - 🎓 **Sejong Univ**
 - 👀 **행동**으로 탐색하는 개발자
+- 📈 남다른 **성장 곡선**을 그리는 개발자
 - 📫 How to reach me: poly30@naver.com
 - 🔍 **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=yujin-zero&color=blueviolet)
 
