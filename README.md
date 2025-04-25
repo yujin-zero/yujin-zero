@@ -12,18 +12,6 @@
 
 ---
 
-### experience
-
----
-
-### project
-
----
-
-### certificate
-
----
-
 ### 🛠 Tech Stack
 
 | Category         | Stack |
@@ -34,6 +22,13 @@
 | **Testing**      | ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=java&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-CA2130?style=flat-square&logo=java&logoColor=white) |
 | **Infra / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
+
+---
+
+### 🏅 Awards
+
+- Alice AI SparkCamp 해커톤 대상 [보기](https://elice.io/ko/newsroom/ai-cloud-hackathon-winner)
+- 세종대학교 제17회 창의설계경진대회 대상 [보기](https://pr.sejong.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=2&pkid=67665)
 
 ---
 
