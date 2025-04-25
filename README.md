@@ -12,6 +12,18 @@
 
 ---
 
+### experience
+
+---
+
+### project
+
+---
+
+### certificate
+
+---
+
 ### 🛠 Tech Stack
 
 | Category         | Stack |
