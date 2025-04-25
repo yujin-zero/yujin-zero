@@ -32,6 +32,8 @@
 |:--------|:------------|
 | [**SnapSum**](https://github.com/Elice-AI-Spark-Camp/SnapSum-Back) | **AI 숏폼 영상 제작 서비스**<br>Spring Boot와 FastAPI를 사용해 AI 요약 및 이미지 생성 기능을 구현했습니다. 백엔드 아키텍처 설계와 API 서버 개발을 주도했습니다. |
 | [**SSGcam**](https://github.com/yujin-zero/SSGcam) | **실시간 보이스피싱 탐지 앱**<br>Twilio API와 WebSocket을 연동하여 통화 중 실시간 음성 스트리밍과 탐지 기능을 구현했습니다. Node.js 기반 백엔드와 Flutter 프론트엔드를 직접 개발했습니다. |
+| [**VPython**](https://github.com/yujin-zero/VPython) | **Python 기반 물리 시뮬레이션 게임**<br>VPython을 사용해 중력, 충돌 등 물리 개념을 직접 코드로 구현한 게임 프로젝트입니다. 시각화를 통해 물리 법칙을 실습하고 창의적으로 표현해보았습니다. |
+
 
 
 ---
