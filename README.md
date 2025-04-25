@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yujin So
 
 - 🎓 **Sejong Univ**
-- 👀 I’m interested in ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- 👀 **행동**으로 탐색하는 개발자
 - 📫 How to reach me: poly30@naver.com
 - 🔍 **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=yujin-zero&color=blueviolet)
 
