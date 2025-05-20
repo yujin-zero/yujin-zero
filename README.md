@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Yujin So
 
 - 🎓 **Sejong Univ**
-- 📈 남다른 **성장 곡선**을 그리는 개발자  
-- 👀 **행동**하는 사람  
 - 📫 How to reach me: poly30@naver.com
 - 🔍 **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=yujin-zero&color=blueviolet)
 
