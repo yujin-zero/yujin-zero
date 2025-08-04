@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Yujin So
 
-- 🎓 **Sejong Univ**
+- 🎓 Sejong Univ, Dept. of Software
+- 💼 신한투자증권 프로디지털아카데미 6기
 - 📫 How to reach me: poly30@naver.com
-- 🔍 **Profile Views** ![Profile Views](https://komarev.com/ghpvc/?username=yujin-zero&color=blueviolet)
 
 ---
 
@@ -27,8 +27,8 @@
 
 ### 🏅 Awards
 
-- 세종대학교 제17회 창의설계경진대회 대상 [기사 보기](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=7&searchField=&searchValue=&boardType=2&pkid=67665)
-- Alice AI SparkCamp 해커톤 대상 [기사 보기](https://elice.io/ko/newsroom/ai-cloud-hackathon-winner)
+- 세종대학교 제17회 창의설계경진대회 대상
+- Alice AI SparkCamp 해커톤 대상
 - 2019 IIBC Start-up Invention Contest 금상
 - 제30회 전국ICT창의성대회 은상
 
