@@ -3,6 +3,7 @@
 - 🎓 Sejong Univ, Dept. of Software 20
 - 💼 신한투자증권 프로디지털아카데미 6기 (2025.04 ~ 2025.10)
 - 🤖 신한투자증권 AI솔루션부 인턴 (2025.11 ~ 2025.12)
+- 💡 AI·SW 마에스트로 17기 (2026.04 ~ )
 - 📫 How to reach me: poly30@naver.com
 
 ---
