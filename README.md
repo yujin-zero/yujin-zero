@@ -11,12 +11,6 @@
 
 
 
-
-
-
-
-
-
 ### 🛠 Tech Stack
 
 | Category         | Stack |
@@ -45,5 +39,6 @@
 | **제30회 전국ICT창의성대회**                 | HTML·CSS·JavaScript 기반으로 앵무새 공원 홈페이지를 제작         | 🥈 은상 - 스마트앱 부문 (전국컴퓨터교육협의회)               |
 
 
-- 📫 How to reach me: poly30@naver.com
+- 📫 How to reach me: poly30@naver.com  
+- ✍️ Blog: [![Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-orange?style=for-the-badge&logo=tistory&logoColor=white)](https://sou330.tistory.com)
 
