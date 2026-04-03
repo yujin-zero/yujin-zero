@@ -37,12 +37,12 @@
 
 | Project                                                    | Description              | Award               |
 | ---------------------------------------------------------- | ------------------------ | ------------------- |
-| [**AND - 사용자 정의 지표 실시간 모니터링 & 알림 서비스**](https://github.com/)                  | 금융 데이터 기반 서비스 개발 및 문제 해결 | 🥇 중간·최종 프로젝트 최우수상  |
-| [**SumEarly - 밤사이 보유 미주 요약**](https://github.com/)                   | 사용자 중심 SW 설계 및 구현        | 🥇 제17회 창의설계경진대회 대상 |
-| [**SnapSum - AI 기반 숏폼 영상 제작 서비스**](https://github.com/)           | AI 기반 문제 해결 서비스 개발       | 🥇 해커톤 대상           |
-| [**SSGCam - 실시간 보이스피싱 탐지 어플리케이션**](https://github.com/) | 창업 아이디어 및 기술 구현          | 🥇 금상               |
-| **2019 IIBC Start-up Invention Contest**  | ICT 기반 창의적 문제 해결         | 🥈 은상               |
-| **제30회 전국ICT창의성대회**                 | ICT 기반 창의적 문제 해결         | 🥈 은상               |
+| [**AND - 사용자 정의 지표 실시간 모니터링 & 알림 서비스**](https://github.com/And-ShinhanPDA/and_backend)                 | 개인화된 금융서비스를 제공하기 위한 클라우드 MSA 환경 구축 및 서비스 개발 | 🥇 최우수상 - 프로디지털아카데미 6기 최종 프로젝트 (신한투자증권)  |
+| [**SumEarly - 밤사이 보유 미주 요약**](https://github.com/salle-malle/back)                   | Open API를 활용한 금융서비스를 제공하는 웹 서비스 기획 및 개발        | 🥇 우수상 - 프로디지털아카데미 6기 중간 프로젝트 (신한투자증권) |
+| [**SnapSum - AI 기반 숏폼 영상 제작 서비스**](https://github.com/Elice-AI-Spark-Camp/SnapSum-Back)           | Elice AI 기반 문제 해결 서비스 개발       | 🥇 대상 - AI Spark Camp (Elice)           |
+| [**SSGCam - 실시간 보이스피싱 탐지 어플리케이션**](https://github.com/yujin-zero/SSGcam) | 실시간 음성 데이터 스트리밍을 통한 긴급 AI 서비스 개발      | 🥇 대상 - 2024 제17회 창의설계경진대회 (세종대학교) <br>  🥇 최우수상 - 2024 SW 인재 페스티벌 (정보통신기획평가원장상)             |
+| **2019 IIBC Start-up Invention Contest**  | 어르신·아동 보호를 위한 '지키미 시계' 아이디어 제안     | 🥇 금상 (한국인터넷방송통신학회)    |
+| **제30회 전국ICT창의성대회**                 | HTML·CSS·JavaScript 기반으로 앵무새 공원 홈페이지를 제작         | 🥈 은상 - 스마트앱 부문 (전국컴퓨터교육협의회)               |
 
 
 - 📫 How to reach me: poly30@naver.com
